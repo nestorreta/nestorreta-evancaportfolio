@@ -5,7 +5,7 @@
 ### Recent Projects 
 
 [Project 1 Title](/sample_page)
-<video src="videos/8110 Facets of Identity.mp4" width="320" height="200" controls preload></video>
+<video src="videos/8110 Facets of Identity.mp4" poster="images/logo.jpg" width="320" height="200" controls preload></video>
 
 ---
 
